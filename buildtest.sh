@@ -7,7 +7,7 @@ echo "passed GIT URL is $gitURL"
 echo "passed GIT User is $gituser"
 echo "passed GIT password is $gitpassword"
 
-if [ -d "$directory" ]; then
+if [ -d "$giturl" ]; then
 echo "game-of-life directory exists"
 fi
 
