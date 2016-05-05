@@ -8,6 +8,6 @@ echo "passed GIT User is $gituser"
 echo "passed GIT password is $gitpassword"
 
 
-#git clone $giturl
+git clone $giturl
 #cd vendmanagementsystem
 #mvn clean install
